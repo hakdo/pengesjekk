@@ -1,0 +1,10 @@
+/__pycache__
+/build/
+/dist/
+/venv/
+pengetest.py
+main.spec
+*.db
+*.xlsx
+transkat.py
+*.bk
